@@ -1,9 +1,10 @@
 :root {
-    --main-color: rgba(253, 0, 177, 0.5);
+    --main-color: rgb(129, 66, 231);
     --table-color: black;
     --left-text-color: rgb(255, 255, 255);
   }
 
+  /* rgb(129, 66, 231); */
 
 div.container{
     /* min-height: 100vh; */
@@ -13,6 +14,23 @@ div.container{
 }
 
 /* -----------------------Правая сторона --------------------------------------- */
+.page_language{
+    font-weight: 100;
+}
+
+a.Ua_En{
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
+    margin: 1px;
+}
+
+a.Ua_En:hover{
+    color: black;
+    text-decoration: underline;
+    font-weight: 600;
+    margin: 0.2px;
+}
 
 .iconsTerm{
 
@@ -75,9 +93,11 @@ img{
     padding-right: 1rem;
 }
 
-div  a{
+a.left_link{
     color: var(--left-text-color);
 }
+
+
 
 .lang{
     width: 100%;
