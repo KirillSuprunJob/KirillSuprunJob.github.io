@@ -16,6 +16,7 @@ div.container{
 /* -----------------------Правая сторона --------------------------------------- */
 .page_language{
     font-weight: 100;
+    
 }
 
 a.Ua_En{
@@ -38,6 +39,11 @@ a.Ua_En:hover{
     height: 3rem;
     width: 3rem;
     margin-left: 20px;
+}
+
+.certificate{
+    text-decoration: none;
+    color: black;
 }
 
 /* span.studyRad{
