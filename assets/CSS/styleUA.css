@@ -147,6 +147,10 @@ span.intermediate{
     margin: -1rem 0 0 1rem;
 }
 
+.link_print{
+    display: none
+}
+
 
 
 @media(min-width: 1200px){
@@ -174,10 +178,13 @@ span.intermediate{
       display:none;
     }
 
+    .link_print{
+        display: block
+    }
+
     .print_padding{
         padding-right: 0.8rem;
     }
-
 
 }
 

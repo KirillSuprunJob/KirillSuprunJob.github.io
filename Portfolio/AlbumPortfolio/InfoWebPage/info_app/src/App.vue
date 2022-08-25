@@ -30,7 +30,7 @@
                   </li>
 
                   <li>
-                    <a href="../../../../index_Portfolio_main.html" class="menu_link"> Main page </a>
+                    <a href="/Portfolio/index_Portfolio_main.html" class="menu_link"> Main page </a>
                   </li>
 
                 </ul>
