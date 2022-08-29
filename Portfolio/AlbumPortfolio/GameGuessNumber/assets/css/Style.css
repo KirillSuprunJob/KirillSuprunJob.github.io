@@ -1,10 +1,10 @@
 body{
     background-image: linear-gradient(to bottom, #cbbbbb, #e0c2b3, #e3d0a7, #cde4aa, #9ef8c9);
-    min-height: 100vh;
+    min-height: 95vh;
 }
 
 main{
-  min-height: 70vh;  
+  min-height: 65vh;  
 
 }
 
@@ -14,7 +14,7 @@ i{
 }
 
 i:hover{
-    transform: scale(1.3);
+    transform: scale(1.2);
     transition: 0.3s;
 }
 
@@ -29,5 +29,5 @@ i:hover{
 
 #refresh:hover{
     transition: 0.3s;
-    transform: scale(1.3);
+    transform: scale(1.2);
 }
