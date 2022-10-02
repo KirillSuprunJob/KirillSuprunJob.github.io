@@ -136,11 +136,11 @@ a.left_link:hover{
 }
 
 #rusLang{
-    margin-left: 1.6rem;
+    margin-left: 1.95rem;
 }
 
 #engLang{
-    margin-left: 1.05rem;
+    margin-left: 2.12rem;
 }
 
 span.intermediate{
@@ -155,7 +155,7 @@ span.intermediate{
 
 
 @media(min-width: 1200px){
-    /* div.container{
+    /* div.print_container{
         display: grid;
         grid-template-columns: 0.2fr 0.8fr;
         grid-template-rows: 1fr;

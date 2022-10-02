@@ -151,11 +151,11 @@ span.intermediate{
     display: none;
 }
 
-
+/*  Media request  */
 
 
 @media(min-width: 1200px){
-    /* div.container{
+    /* div.print_container{
         display: grid;
         grid-template-columns: 0.2fr 0.8fr;
         grid-template-rows: 1fr;
